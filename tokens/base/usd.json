@@ -1,0 +1,22 @@
+[
+  {
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+    "symbol": "DAI"
+  },
+  {
+    "address": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+    "symbol": "DOLA"
+  },
+  {
+    "address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
+    "symbol": "MIM"
+  },
+  {
+    "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+    "symbol": "USDbC"
+  }
+]

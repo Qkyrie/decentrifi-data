@@ -4,8 +4,8 @@
     "symbol": "BNB"
   },
   {
-    "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
-    "symbol": "tBTC"
+    "address": "0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0",
+    "symbol": "MATIC"
   },
   {
     "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
@@ -58,7 +58,8 @@
   {
     "address": "0xc5102fE9359FD9a28f877a67E36B0F050d81a3CC",
     "symbol": "HOP"
-  },{
+  },
+  {
     "address": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
     "symbol": "COW"
   }

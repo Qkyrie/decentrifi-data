@@ -10,5 +10,25 @@
   {
     "address": "0x178412e79c25968a32e89b11f63b33f733770c2a",
     "symbol": "frxETH"
+  },
+  {
+    "address": "0x0fBcbaEA96Ce0cF7Ee00A8c19c3ab6f5Dc8E1921",
+    "symbol": "wstETH"
+  },
+  {
+    "address": "0x2416092f143378750bb29b79ed961ab195cceea5",
+    "symbol": "ezETH"
+  },
+  {
+    "address": "0x95ab45875cffdba1e5f451b950bc2e42c0053f39",
+    "symbol": "sfrxETH"
+  },
+  {
+    "address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe",
+    "symbol": "weETH"
+  },
+  {
+    "address": "0x95ab45875cffdba1e5f451b950bc2e42c0053f39",
+    "symbol": "sfrxETH"
   }
 ]

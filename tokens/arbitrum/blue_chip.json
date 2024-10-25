@@ -1,0 +1,30 @@
+[
+  {
+    "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "symbol": "LINK"
+  },{
+    "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
+    "symbol": "UNI"
+  },{
+    "address": "0x912ce59144191c1204e64559fe8253a0e49e6548",
+    "symbol": "ARB"
+  },{
+    "address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7",
+    "symbol": "GRT"
+  },{
+    "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
+    "symbol": "LDO"
+  },{
+    "address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8",
+    "symbol": "PENDLE"
+  },{
+    "address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
+    "symbol": "GNO"
+  },{
+    "address": "0x82e3a8f066a6989666b031d916c43672085b1582",
+    "symbol": "YFI"
+  },{
+    "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
+    "symbol": "SUSHI"
+  }
+]

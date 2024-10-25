@@ -14,13 +14,16 @@
   {
     "address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
     "symbol": "MIM"
-  },  {
+  },
+  {
     "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
     "symbol": "USD+"
-  },{
+  },
+  {
     "address": "0xda3de145054ed30ee937865d31b500505c4bdfe7",
     "symbol": "USD+crvUSD-f"
-  },{
+  },
+  {
     "address": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
     "symbol": "USDz"
   },
@@ -31,7 +34,8 @@
   {
     "address": "0xa87c9808c0ebe20a1427b5c769623c77201f6f4d",
     "symbol": "AnzBond"
-  } ,{
+  },
+  {
     "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
     "symbol": "EURC"
   }

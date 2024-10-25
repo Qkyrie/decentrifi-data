@@ -2,5 +2,8 @@
   {
     "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
     "symbol": "cbBTC"
+  }, {
+    "address": "0x0555E30da8f98308EdB960aa94C0Db47230d2B9c",
+    "symbol": "WBTC"
   }
 ]

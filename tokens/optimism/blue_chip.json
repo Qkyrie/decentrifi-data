@@ -2,5 +2,13 @@
   {
     "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
     "symbol": "BNB"
+  },
+  {
+    "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
+    "symbol": "LINK"
+  },
+  {
+    "address": "0xC81D1F0EB955B0c020E5d5b264E1FF72c14d1401",
+    "symbol": "RPL"
   }
 ]

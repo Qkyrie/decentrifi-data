@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x0000000000000000000000000000000000001010",
+    "symbol": "MATIC"
+  },  {
+    "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
+    "symbol": "HOP"
+  }, {
+    "address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+    "symbol": "LDO"
+  }
+]

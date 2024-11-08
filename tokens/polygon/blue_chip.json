@@ -8,5 +8,20 @@
   }, {
     "address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
     "symbol": "LDO"
+  }, {
+    "address": "0xd93f7e271cb87c23aaa73edc008a79646d1f9912",
+    "symbol": "SOL"
+  }, {
+    "address": "0x3BA4c387f786bFEE076A58914F5Bd38d668B42c3",
+    "symbol": "BNB"
+  }, {
+    "address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39",
+    "symbol": "LINK"
+  }, {
+    "address": "0xb0897686c545045afc77cf20ec7a532e3120e0f1",
+    "symbol": "LINK"
+  }, {
+    "address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f",
+    "symbol": "UNI"
   }
 ]

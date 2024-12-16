@@ -12,6 +12,10 @@
     "symbol": "FDUSD"
   },
   {
+    "address": "0x056Fd409E1d7A124BD7017459dFEa2F387b6d5Cd",
+    "symbol": "GUSD"
+  },
+  {
     "address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
     "symbol": "USDe"
   },

@@ -8,8 +8,24 @@
     "symbol": "MATIC"
   },
   {
+    "address": "0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2",
+    "symbol": "MKR"
+  },
+  {
+    "address": "0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72",
+    "symbol": "ENS"
+  },
+  {
+    "address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
+    "symbol": "LOOKSRARE"
+  },
+  {
     "address": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
     "symbol": "SHIBA"
+  },
+  {
+    "address": "0x0D8775F648430679A709E98d2b0Cb6250d2887EF",
+    "symbol": "BAT"
   },
   {
     "address": "0x514910771af9ca656af840dff83e8264ecf986ca",

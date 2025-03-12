@@ -4162,6 +4162,12 @@
     "iconUrl": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0x303c89f3a4a58872d8b6a3e64c14fdd9ec669c99.png?size=lg&key=ea9589"
   },
   {
+    "type": "0x9e0ac77852731a8c89c9c40713f97ea73dbd15c24663bfa8d158e1b64fbb764c::stbl::STBL",
+    "decimals": 9,
+    "symbol": "STBL",
+    "name": "Starble"
+  },
+  {
     "type": "0x5f496ed5d9d045c5b788dc1bb85f54100f2ede11e46f6a232c29daada4c5bdb6::coin::COIN",
     "decimals": 8,
     "symbol": "stBTC",

@@ -1,0 +1,42 @@
+[
+  {
+    "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+    "symbol": "DAI"
+  },
+  {
+    "address": "0x4621b7a9c75199271f773ebd9a499dbd165c3191",
+    "symbol": "DOLA"
+  },
+  {
+    "address": "0x4A3A6Dd60A34bB2Aba60D73B4C88315E9CeB6A3D",
+    "symbol": "MIM"
+  },
+  {
+    "address": "0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
+    "symbol": "USD+"
+  },
+  {
+    "address": "0xda3de145054ed30ee937865d31b500505c4bdfe7",
+    "symbol": "USD+crvUSD-f"
+  },
+  {
+    "address": "0x04D5ddf5f3a8939889F11E97f8c4BB48317F1938",
+    "symbol": "USDz"
+  },
+  {
+    "address": "0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+    "symbol": "USDbC"
+  },
+  {
+    "address": "0xa87c9808c0ebe20a1427b5c769623c77201f6f4d",
+    "symbol": "AnzBond"
+  },
+  {
+    "address": "0x60a3e35cc302bfa44cb288bc5a4f316fdb1adb42",
+    "symbol": "EURC"
+  }
+]

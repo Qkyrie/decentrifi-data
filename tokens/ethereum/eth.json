@@ -1,0 +1,28 @@
+[
+  {
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "symbol": "WETH"
+  },
+  {
+    "address": "0x0",
+    "symbol": "ETH"
+  },
+  {
+    "address": "0x35fa164735182de50811e8e2e824cfb9b6118ac2",
+    "symbol": "eETH"
+  },
+  {
+    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "symbol": "stETH"
+  },
+  {
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "symbol": "wstETH"
+  } , {
+    "address": "0xae78736cd615f374d3085123a210448e74fc6393",
+    "symbol": "rETH"
+  }, {
+    "address": "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa",
+    "symbol": "mETH"
+  }
+]

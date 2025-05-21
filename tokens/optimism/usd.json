@@ -1,0 +1,38 @@
+[
+  {
+    "address": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+    "symbol": "USDT"
+  },
+  {
+    "address": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+    "symbol": "USDC"
+  },
+  {
+    "address": "0x7f5c764cbc14f9669b88837ca1490cca17c31607",
+    "symbol": "USDC.e"
+  },
+  {
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "symbol": "DAI"
+  },
+  {
+    "address": "0x2e3d870790dc77a83dd1d18184acc7439a53f475",
+    "symbol": "FRAX"
+  },
+  {
+    "address": "0x8ae125e8653821e851f12a49f7765db9a9ce7384",
+    "symbol": "DOLA"
+  },
+  {
+    "address": "0x73cb180bf0521828d8849bc8cf2b920918e23032",
+    "symbol": "USD+"
+  },
+  {
+    "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+    "symbol": "sUSD"
+  },
+  {
+    "address": "0xcb59a0a753fdb7491d5f3d794316f1ade197b21e",
+    "symbol": "tUSD"
+  }
+]
